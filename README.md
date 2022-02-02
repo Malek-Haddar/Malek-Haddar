@@ -27,7 +27,7 @@
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=malek-haddar&show_icons=true&include_all_commits=true" alt="Don's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Malek-Haddar&show_icons=true&include_all_commits=true" alt="Don's github stats" />
 
 
 <!--
