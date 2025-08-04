@@ -1,11 +1,9 @@
 ### Hi there, It's [Malek-Haddar](https://www.linkedin.com/in/malek-haddar/) 👋
 
-## I'm a Footballer, and Developer!!
+## I'm a Cyclist, and Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Receive my Software Engineer Diploma
-- ⚡ Fun fact: I love camping and play ping-pong
-
+Creative‑minded Full Stack Developer with a Front End flair — Engineer by trade, 
+cyclist by heart. Tunisian, always riding the edge of tech and tarmac.
 
 <br />
 
